@@ -1,0 +1,17 @@
+Address			Original		New
+
+A297			  29			17	(green tunic color)
+
+19324			  29			17	(Link's pallette, tuinic color)
+19325			  27			39	(Link's pallette, skin color)
+19326			  17			08	(Link's pallette, belt color)
+
+19420-19422		29 27 17	  17 39 08	(Link's pallette in Lv 1)
+1951C-1951E		29 27 17	  17 39 08	(Link's pallette in Lv 2)
+19618-1961A		29 37 17	  17 39 08	(Link's pallette in Lv 3)
+19714-19716		29 27 17	  17 39 08	(Link's pallette in Lv 4)
+19810-19812		29 27 17	  17 39 08	(Link's pallette in Lv 5)
+1990C-1990E		29 27 17	  17 39 08	(Link's pallette in Lv 6)
+19A08-19A0A		29 27 17	  17 39 08	(Link's pallette in Lv 7)
+19B04-19B06		29 27 17	  17 39 08	(Link's pallette in Lv 8)	
+19C00-19C02		29 27 17	  17 39 08	(Link's pallette in Lv 9)
