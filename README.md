@@ -11,3 +11,6 @@ to another pikachu.  Ring colors show in the shield's lightning bolt and in Pika
 Samus sprite is wip, it's so much tougher than pikachu.  Please feel free to post suggestions!
 Samus set changes the swords to bullets, the wand and wand magic to missiles, Zelda to baby metroid.
 Ring colors change Samus' suit color.
+
+Thanks so much for all the feedback and testing <3
+Tetraly, megmacAttack, and everyone else who helped or encouraged us to do these!
